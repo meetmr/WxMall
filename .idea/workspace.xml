@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f356a0b9-eccf-4609-a5d7-9dabc6e73c65" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Zerg/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exc</find>
+      <find>re</find>
+      <find>hi</find>
+      <find>删除</find>
+      <find>push</find>
+      <find>order_id</find>
+      <find>name</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Token.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Address.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zerg/application/api/validate/OrderPlace.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Zerg/application/api/service/Order.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zerg/application/api/service/Pay.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zerg/application/api/model/Product.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Zerg/application/api/service/Token.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zerg/thinkphp/library/think/Db.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Zerg/config/wx.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/common.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/WeChatException.php" />
+        <option value="$PROJECT_DIR$/Zerg/config/setting.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/TokenException.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/ProductImage.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/ProductProperty.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/Product.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/validate/AddresNew.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/UserException.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/UserAddress.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/User.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/RarameterException.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/SuccessMessage.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/enum/ScopeEnum.php" />
+        <option value="$PROJECT_DIR$/Zerg/LICENSE.txt" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/ForbiddenException.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/service/UserToken.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/validate/OrderPlace.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/OrderException.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/OrderPproduct.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/BaseController.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/BaseModel.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/enum/OrderStatusEnum.php" />
+        <option value="$PROJECT_DIR$/Zerg/thinkphp/library/think/Loader.php" />
+        <option value="$PROJECT_DIR$/Zerg/extend/WxPay/WxPay.Config.php" />
+        <option value="$PROJECT_DIR$/Zerg/extend/WxPay/WxPay.Data.php" />
+        <option value="$PROJECT_DIR$/Zerg/extend/WxPay/WxPay.Exception.php" />
+        <option value="$PROJECT_DIR$/Zerg/extend/WxPay/WxPay.Notify.php" />
+        <option value="$PROJECT_DIR$/Zerg/public/index.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/service/WxNotify.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/Pay.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/service/Pay.php" />
+        <option value="$PROJECT_DIR$/Zerg/config/secure.php" />
+        <option value="$PROJECT_DIR$/Zerg/extend/WxPay/WxPay.Api.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/validate/PagingParameter.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/model/Order.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/Banner.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/Product.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/Theme.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/service/Token.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/validate/BaseValidate.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/validate/AddressNew.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/Token.php" />
+        <option value="$PROJECT_DIR$/Zerg/route/route.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/Address.php" />
+        <option value="D:/xampp/php/www/blog/blog.sql" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/service/Order.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/api/controller/v1/Order.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/BaseException.php" />
+        <option value="$PROJECT_DIR$/Zerg/application/lib/exception/ExceptionHandler.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Zerg/vendor/composer" />
+      <path value="$PROJECT_DIR$/Zerg/vendor/topthink/think-installer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="31" />
+    <option name="width" value="1233" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+              <item name="Zerg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+              <item name="Zerg" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+              <item name="Zerg" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+              <item name="Zerg" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="validate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+              <item name="Zerg" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+              <item name="Zerg" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wxsc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxsc" type="462c0819:PsiDirectoryNode" />
+              <item name="Zerg" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\wxsc\Zerg\extend\WxPay" />
+      <recent name="D:\code\wxsc\Zerg\config" />
+      <recent name="D:\code\wxsc\Zerg\application\api\model" />
+      <recent name="D:\code\wxsc\Zerg\application\api\controller" />
+      <recent name="D:\code\wxsc\Zerg\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\wxsc\Zerg\application\lib" />
+      <recent name="D:\code\wxsc\Zerg\application" />
+      <recent name="D:\code\wxsc\Zerg\application\api\controller\vi" />
+      <recent name="D:\code\wxsc\Zerg\application\api\controller" />
+      <recent name="D:\code\wxsc\Zerg\application\api\vi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f356a0b9-eccf-4609-a5d7-9dabc6e73c65" name="Default" comment="" />
+      <created>1528943525013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528943525013</updated>
+      <workItem from="1528943526371" duration="9223000" />
+      <workItem from="1529020580488" duration="5288000" />
+      <workItem from="1529028954488" duration="259000" />
+      <workItem from="1529046501064" duration="7819000" />
+      <workItem from="1529064393428" duration="6510000" />
+      <workItem from="1529073352358" duration="912000" />
+      <workItem from="1529112451345" duration="17881000" />
+      <workItem from="1529212671999" duration="2458000" />
+      <workItem from="1529296403508" duration="613000" />
+      <workItem from="1529307441898" duration="4340000" />
+      <workItem from="1529374176646" duration="10868000" />
+      <workItem from="1529394035690" duration="15908000" />
+      <workItem from="1529459126337" duration="10242000" />
+      <workItem from="1529495434530" duration="65000" />
+      <workItem from="1529583477713" duration="7852000" />
+      <workItem from="1529634070796" duration="29000" />
+      <workItem from="1529636469790" duration="490000" />
+      <workItem from="1529653383701" duration="12625000" />
+      <workItem from="1529712095810" duration="17235000" />
+      <workItem from="1529804314120" duration="614000" />
+      <workItem from="1529835642973" duration="17000" />
+      <workItem from="1529837198978" duration="1389000" />
+      <workItem from="1529893107808" duration="3162000" />
+      <workItem from="1530023179983" duration="1054000" />
+      <workItem from="1530260547820" duration="7863000" />
+      <workItem from="1530352222869" duration="97000" />
+      <workItem from="1530358343624" duration="17000" />
+      <workItem from="1530358395852" duration="3749000" />
+      <workItem from="1530404363739" duration="1768000" />
+      <workItem from="1530441651116" duration="1263000" />
+      <workItem from="1530586886151" duration="809000" />
+      <workItem from="1530598372093" duration="10000" />
+      <workItem from="1530669306825" duration="622000" />
+      <workItem from="1531553771913" duration="1481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="154532000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22654155" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.29418105" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32697546" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16950959" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32697546" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.29418105" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/validate/IDCollection.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/validate/Count.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="135" column="75" lean-forward="true" selection-start-line="135" selection-start-column="75" selection-end-line="135" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/model/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/thinkphp/library/think/exception/Handle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/validate/OrderPlace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/config/wx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/百度云/xixihehe/新建文件夹/34、ThinkPHP 5.0开发微信小程序商场打通全栈项目架构/project源码/y0zdij/Protoss/utils/base.js" />
+    <entry file="file://F:/百度云/xixihehe/新建文件夹/34、ThinkPHP 5.0开发微信小程序商场打通全栈项目架构/project源码/y0zdij/Protoss/utils/token.js" />
+    <entry file="file://F:/百度云/xixihehe/新建文件夹/34、ThinkPHP 5.0开发微信小程序商场打通全栈项目架构/project源码/y0zdij/Zerg/application/api/validate/BaseValidate.php" />
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/百度云/xixihehe/新建文件夹/34、ThinkPHP 5.0开发微信小程序商场打通全栈项目架构/project源码/y0zdij/Protoss/pages/order/order-model.js" />
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Token.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/百度云/xixihehe/新建文件夹/34、ThinkPHP 5.0开发微信小程序商场打通全栈项目架构/project源码/y0zdij/Protoss/utils/address.js" />
+    <entry file="file://F:/百度云/xixihehe/新建文件夹/34、ThinkPHP 5.0开发微信小程序商场打通全栈项目架构/project源码/y0zdij/Protoss/pages/order/order.js" />
+    <entry file="file://D:/xampp/php/www/blog/blog (1).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://D:/xampp/php/www/blog/blog.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/百度云/xixihehe/新建文件夹/34、ThinkPHP 5.0开发微信小程序商场打通全栈项目架构/project/y0zdij/Protoss/pages/order/order.js" />
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Pay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/route/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="43" column="53" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Category.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/service/WxNotify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="29" column="73" lean-forward="true" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/service/UserToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/service/Token.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/service/Pay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-636">
+          <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/service/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/BannerMissException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/BaseException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/CategoryException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/ExceptionHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <folding>
+            <element signature="e#101#128#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/ForbiddenException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/OrderException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/SuccessMessage.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/ThemeException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/TokenException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/UserException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/WeChatException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="132" column="41" lean-forward="true" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/controller/v1/Address.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/validate/AddressNew.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/validate/BaseValidate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="21" lean-forward="true" selection-end-line="65" selection-end-column="1" />
+          <folding>
+            <element signature="e#100#141#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/ProductException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/ParameterException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/lib/exception/RarameterException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/validate/PagingParameter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zerg/application/api/validate/IDMustBePostivelnt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
